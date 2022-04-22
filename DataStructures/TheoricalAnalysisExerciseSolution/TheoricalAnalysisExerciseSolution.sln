@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheoricalAnalysis", "TheoricalAnalysis.csproj", "{122F1ABB-DA79-4051-B3EE-89153A00AB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheoricalAnalysisExerciseSolution", "TheoricalAnalysisExerciseSolution.csproj", "{EF6B1070-AF70-43E7-B3A1-B0B03D7B8684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122F1ABB-DA79-4051-B3EE-89153A00AB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122F1ABB-DA79-4051-B3EE-89153A00AB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122F1ABB-DA79-4051-B3EE-89153A00AB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122F1ABB-DA79-4051-B3EE-89153A00AB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6B1070-AF70-43E7-B3A1-B0B03D7B8684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6B1070-AF70-43E7-B3A1-B0B03D7B8684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6B1070-AF70-43E7-B3A1-B0B03D7B8684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6B1070-AF70-43E7-B3A1-B0B03D7B8684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AD8B01C-4581-427D-8BA9-6405892E6974}
+	EndGlobalSection
+EndGlobal

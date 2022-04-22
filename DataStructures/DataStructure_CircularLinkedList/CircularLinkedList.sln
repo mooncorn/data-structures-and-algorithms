@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularLinkedList.DataStructure", "CircularLinkedList.DataStructure\CircularLinkedList.DataStructure.csproj", "{7CDBC0C8-67E8-4703-926D-38215D14ACE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CDBC0C8-67E8-4703-926D-38215D14ACE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDBC0C8-67E8-4703-926D-38215D14ACE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDBC0C8-67E8-4703-926D-38215D14ACE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDBC0C8-67E8-4703-926D-38215D14ACE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C267A45B-C7A7-4D46-A467-C51CAD1A42F7}
+	EndGlobalSection
+EndGlobal
