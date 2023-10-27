@@ -1,0 +1,29 @@
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+env/
+*.env
+
+# Ignore operating system or editor-specific files
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Ignore local configuration files
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore package manager files
+pip-lock.txt
+pipfile.lock
